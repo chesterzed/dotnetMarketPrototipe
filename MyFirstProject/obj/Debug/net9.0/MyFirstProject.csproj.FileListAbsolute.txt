@@ -20,7 +20,6 @@ E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\static
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyFirstProject.props
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyFirstProject.props
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\staticwebassets.pack.json
-E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\MyFirstProject.dll
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\refint\MyFirstProject.dll
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\MyFirstProject.pdb
@@ -175,3 +174,4 @@ E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\compre
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\compressed\1hh2qfk8r5-akp8kdn8vu.gz
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\bin\Debug\net9.0\appsettings.production.json
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\bin\Debug\net9.0\appsettings.staging.json
+E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\MyFirstProject.sourcelink.json
