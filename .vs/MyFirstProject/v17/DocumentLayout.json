@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "E:\\projects\\dotnetProjects\\MyFirstProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|e:\\projects\\dotnetprojects\\myfirstproject\\myfirstproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|e:\\projects\\dotnetprojects\\myfirstproject\\myfirstproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|e:\\projects\\dotnetprojects\\myfirstproject\\myfirstproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|e:\\projects\\dotnetprojects\\myfirstproject\\myfirstproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|e:\\projects\\dotnetprojects\\myfirstproject\\myfirstproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|e:\\projects\\dotnetprojects\\myfirstproject\\myfirstproject\\domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|e:\\projects\\dotnetprojects\\myfirstproject\\myfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|e:\\projects\\dotnetprojects\\myfirstproject\\myfirstproject\\infrastracture\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\infrastracture\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|e:\\projects\\dotnetprojects\\myfirstproject\\myfirstproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|e:\\projects\\dotnetprojects\\myfirstproject\\myfirstproject\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A70A04-9E9F-4525-9963-55C3C916810C}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,101 +21,46 @@
       "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 187,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MyFirstProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "MyFirstProject\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MyFirstProject\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MyFirstProject\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T08:05:27.591Z",
+              "WhenOpened": "2025-01-31T22:42:03.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyFirstProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MyFirstProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T08:05:17.05Z",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MyFirstProject\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MyFirstProject\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:35:24.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MyFirstProject\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MyFirstProject\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "MyFirstProject\\Models\\LoginViewModel.cs",
+              "ToolTip": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "MyFirstProject\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:03:44.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Domain\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MyFirstProject\\Domain\\AppDbContext.cs",
-              "ToolTip": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Domain\\AppDbContext.cs",
-              "RelativeToolTip": "MyFirstProject\\Domain\\AppDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCkAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:45:26.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppConfig.cs",
-              "DocumentMoniker": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Infrastracture\\AppConfig.cs",
-              "RelativeDocumentMoniker": "MyFirstProject\\Infrastracture\\AppConfig.cs",
-              "ToolTip": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Infrastracture\\AppConfig.cs",
-              "RelativeToolTip": "MyFirstProject\\Infrastracture\\AppConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:38:29.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\appsettings.json",
-              "RelativeDocumentMoniker": "MyFirstProject\\appsettings.json",
-              "ToolTip": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\appsettings.json",
-              "RelativeToolTip": "MyFirstProject\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-26T19:31:20.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Program.cs",
-              "RelativeDocumentMoniker": "MyFirstProject\\Program.cs",
-              "ToolTip": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\Program.cs",
-              "RelativeToolTip": "MyFirstProject\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwE8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T20:36:06.208Z",
+              "WhenOpened": "2025-01-31T22:35:21.835Z",
               "EditorCaption": ""
             }
           ]

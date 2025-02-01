@@ -13,6 +13,70 @@
       "PackagePath": "staticwebassets\\css\\noscript.css"
     },
     {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\img\\logo.svg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic01.jpg",
+      "PackagePath": "staticwebassets\\img\\pic01.jpg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic02.jpg",
+      "PackagePath": "staticwebassets\\img\\pic02.jpg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic03.jpg",
+      "PackagePath": "staticwebassets\\img\\pic03.jpg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic04.jpg",
+      "PackagePath": "staticwebassets\\img\\pic04.jpg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic05.jpg",
+      "PackagePath": "staticwebassets\\img\\pic05.jpg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic06.jpg",
+      "PackagePath": "staticwebassets\\img\\pic06.jpg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic07.jpg",
+      "PackagePath": "staticwebassets\\img\\pic07.jpg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic08.jpg",
+      "PackagePath": "staticwebassets\\img\\pic08.jpg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic09.jpg",
+      "PackagePath": "staticwebassets\\img\\pic09.jpg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic10.jpg",
+      "PackagePath": "staticwebassets\\img\\pic10.jpg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic11.jpg",
+      "PackagePath": "staticwebassets\\img\\pic11.jpg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic12.jpg",
+      "PackagePath": "staticwebassets\\img\\pic12.jpg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic13.jpg",
+      "PackagePath": "staticwebassets\\img\\pic13.jpg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic14.jpg",
+      "PackagePath": "staticwebassets\\img\\pic14.jpg"
+    },
+    {
+      "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\img\\pic15.jpg",
+      "PackagePath": "staticwebassets\\img\\pic15.jpg"
+    },
+    {
       "Id": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\wwwroot\\js\\breakpoints.min.js",
       "PackagePath": "staticwebassets\\js\\breakpoints.min.js"
     },

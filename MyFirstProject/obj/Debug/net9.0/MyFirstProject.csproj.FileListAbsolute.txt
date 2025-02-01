@@ -162,7 +162,6 @@ E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\MyFirs
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\MyFirstProject.RazorAssemblyInfo.cache
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\MyFirstProject.RazorAssemblyInfo.cs
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\compressed\xy3t5zq2w8-4wy2d2c11r.gz
-E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\compressed\40l3sowe6i-in5onj1tkk.gz
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\compressed\novt5hu2us-3nierzlldk.gz
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\compressed\fm0k3fxf56-0wh1oivfsu.gz
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\compressed\p8x5z802te-skd64sug8r.gz
@@ -175,3 +174,12 @@ E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\compre
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\bin\Debug\net9.0\appsettings.production.json
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\bin\Debug\net9.0\appsettings.staging.json
 E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\MyFirstProject.sourcelink.json
+E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\compressed\40l3sowe6i-7qh7zk02jo.gz
+E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\obj\Debug\net9.0\compressed\jfvz5jpg9j-naqyn367mf.gz
+E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\projects\dotnetProjects\MyFirstProject\MyFirstProject\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
