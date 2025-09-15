@@ -12,7 +12,7 @@ using MyFirstProject.Domain;
 namespace MyFirstProject.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250129120007__initial")]
+    [Migration("20250301033959__initial")]
     partial class _initial
     {
         /// <inheritdoc />
@@ -20,7 +20,7 @@ namespace MyFirstProject.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "9.0.0")
+                .HasAnnotation("ProductVersion", "9.0.2")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -154,13 +154,13 @@ namespace MyFirstProject.Migrations
                         {
                             Id = "fc3e64e6-0c98-47ba-98ff-b8ec758c352b",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "87edc030-c580-4583-a158-0f0c09776dae",
+                            ConcurrencyStamp = "98ef9244-e20e-4c29-befe-e3a86e30affa",
                             Email = "admin@admin.com",
                             EmailConfirmed = true,
                             LockoutEnabled = false,
                             NormalizedEmail = "admin@admin.com",
                             NormalizedUserName = "ADMIN",
-                            PasswordHash = "AQAAAAIAAYagAAAAEPkFB85JYjkB22sQLrJZq5QbdZ4Lz7mqLu3JaPQAjrurNjrR59VHBdfZT+t8w/U1RA==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEOCsjEKNp3i6GzzaODxO08JJSXTg6wHm89RHMxUCv19B7XKM/px/unfIbhQNIlN37w==",
                             PhoneNumberConfirmed = true,
                             SecurityStamp = "",
                             TwoFactorEnabled = false,

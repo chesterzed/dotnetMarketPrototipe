@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\MyFirstProject.csproj": {}
+    "/Users/chesterzed/Projects/RiderProjects/dotnetMarketPrototipe/MyFirstProject/MyFirstProject.csproj": {}
   },
   "projects": {
-    "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\MyFirstProject.csproj": {
+    "/Users/chesterzed/Projects/RiderProjects/dotnetMarketPrototipe/MyFirstProject/MyFirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\MyFirstProject.csproj",
+        "projectUniqueName": "/Users/chesterzed/Projects/RiderProjects/dotnetMarketPrototipe/MyFirstProject/MyFirstProject.csproj",
         "projectName": "MyFirstProject",
-        "projectPath": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\MyFirstProject.csproj",
-        "packagesPath": "C:\\Users\\chest\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\dotnetProjects\\MyFirstProject\\MyFirstProject\\obj\\",
+        "projectPath": "/Users/chesterzed/Projects/RiderProjects/dotnetMarketPrototipe/MyFirstProject/MyFirstProject.csproj",
+        "packagesPath": "/Users/chesterzed/.nuget/packages/",
+        "outputPath": "/Users/chesterzed/Projects/RiderProjects/dotnetMarketPrototipe/MyFirstProject/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "A:\\VisualStudio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\chest\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/chesterzed/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +47,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.2, )"
             },
             "Microsoft.AspNetCore.Mvc.TagHelpers": {
               "target": "Package",
@@ -61,17 +55,17 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.2, )"
             },
             "Serilog.AspNetCore": {
               "target": "Package",
@@ -97,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

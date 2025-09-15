@@ -202,7 +202,7 @@ namespace MyFirstProject.Migrations
             migrationBuilder.InsertData(
                 table: "AspNetUsers",
                 columns: new[] { "Id", "AccessFailedCount", "ConcurrencyStamp", "Email", "EmailConfirmed", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "PasswordHash", "PhoneNumber", "PhoneNumberConfirmed", "SecurityStamp", "TwoFactorEnabled", "UserName" },
-                values: new object[] { "fc3e64e6-0c98-47ba-98ff-b8ec758c352b", 0, "87edc030-c580-4583-a158-0f0c09776dae", "admin@admin.com", true, false, null, "admin@admin.com", "ADMIN", "AQAAAAIAAYagAAAAEPkFB85JYjkB22sQLrJZq5QbdZ4Lz7mqLu3JaPQAjrurNjrR59VHBdfZT+t8w/U1RA==", null, true, "", false, "admin" });
+                values: new object[] { "fc3e64e6-0c98-47ba-98ff-b8ec758c352b", 0, "98ef9244-e20e-4c29-befe-e3a86e30affa", "admin@admin.com", true, false, null, "admin@admin.com", "ADMIN", "AQAAAAIAAYagAAAAEOCsjEKNp3i6GzzaODxO08JJSXTg6wHm89RHMxUCv19B7XKM/px/unfIbhQNIlN37w==", null, true, "", false, "admin" });
 
             migrationBuilder.InsertData(
                 table: "AspNetUserRoles",

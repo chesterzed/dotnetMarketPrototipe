@@ -5,7 +5,7 @@ using MyFirstProject.Domain;
 namespace MyFirstProject.Controllers.Admin
 {
     [Authorize(Roles ="admin")]
-    public partial class AdminController : Controller
+    public partial class  AdminController : Controller
     {
         private readonly DataManager _dataManager;
 

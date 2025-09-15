@@ -14,7 +14,7 @@ namespace MyFirstProject
         {
             WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
-            // Подключаем в нашу конфиг. файл appsetting.json
+            // connect configuration to file appsetting.json
             IConfigurationBuilder configbuild = new ConfigurationBuilder()
                 .SetBasePath(builder.Environment.ContentRootPath)
                 .AddJsonFile("appsettings.json", optional:false, reloadOnChange: true)
@@ -22,12 +22,12 @@ namespace MyFirstProject
 
             IConfiguration configuration = configbuild.Build();
             AppConfig config = configuration.GetSection("Project").Get<AppConfig>()!;
-            // ' ! '  Даёт указание компилятору,
-            // что мы точно знаем что наш конфиг подгрузился configuration не пустой
+            // ' ! '  means that value can be nullable
+            // It's very important if configuration file is empty
 
-            // Подклюачем контекст к бд
+            // connect db context to db
             builder.Services.AddDbContext<AppDbContext>(x => x.UseSqlServer(config.Database.ConnectionString)
-                // На момент создания приложения в данной версии EF был баг, хотя ошибки нет, поэтому подавляем предупреждения
+                // On the project creating time. In current version of EF was an compilation error, turn of notification
                 .ConfigureWarnings(warnings => warnings.Ignore(RelationalEventId.PendingModelChangesWarning)));
 
             // 
@@ -36,7 +36,7 @@ namespace MyFirstProject
             builder.Services.AddTransient<DataManager>();
 
 
-            // Настраиваем Identity Систему
+            // Set an Identity system
             builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
             {
                 options.User.RequireUniqueEmail = true;
@@ -47,7 +47,7 @@ namespace MyFirstProject
                 options.Password.RequireDigit = false;
             }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
-            // Настраиваем Auth cookie
+            // Set an Auth cookie
             builder.Services.ConfigureApplicationCookie(options =>
             {
                 options.Cookie.Name = "myCompanyAuth";
@@ -57,28 +57,30 @@ namespace MyFirstProject
                 options.SlidingExpiration = true;
             });
 
-            // Подключаем функционал контроллеров
+            // Add controllers functional
             builder.Services.AddControllersWithViews();
+            // builder.Services.AddRazorPages();
 
-            // Собираем конфигурацию
+
+            // Compile the configuration
             WebApplication app = builder.Build();
 
-            // ! Порядок следования middleware очень важен,
-            // они будут выполняться согласно нему
+            // ! The order of middleware is very important,
+            // application will build according this order
 
-            // Подключаем использование статичных файлов (js, css, b nl)
+            // Add static files usage (js, css, b nl)
             app.UseStaticFiles();
 
-            // Для того чтобы приложение определяло правильно контроллер
-            // Подключаем систему маршрутизации
+            // пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+            // Add routing system
             app.UseRouting();
 
-            //Подключаем систему аутентификацию и авторизацию
+            // Add Authentication and Authorization
             app.UseCookiePolicy();
             app.UseAuthentication();
             app.UseAuthorization();
 
-            // Регистрируем нужные нам маршруты
+            // Register self necessary routes
             app.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
 
             await app.RunAsync();

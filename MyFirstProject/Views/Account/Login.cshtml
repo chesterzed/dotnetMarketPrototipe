@@ -9,27 +9,31 @@
 		<h1>
 			@strTitle
 		</h1>
-		<h2>
-			@ViewBag.DebagMessage
-		</h2>
+		@* <h2> *@
+		@* 	@Model.Password *@
+		@* 	@ViewBag.DebagMessage *@
+		@* </h2> *@
 		<form asp-area="" asp-controller="Account" asp-action="Login" method="post" asp-route-returnUrl="@ViewBag.ReturnUrl">
 			<div asp-validation-summary="All">
 
 			</div>
 			<div>
-				<label asp-for="UserName"></label>
-				<input asp-for="UserName" />
-				<span asp-validation-for="UserName"></span>
+				<label asp-for="UserName">
+					<input asp-for="UserName" />
+					<span asp-validation-for="UserName"></span>
+				</label>
 			</div>
 			<div>
-				<label asp-for="Password"></label>
-				<input asp-for="Password" />
-				<span asp-validation-for="Password"></span>
+				<label asp-for="Password">
+					<input asp-for="Password" />
+					<span asp-validation-for="Password"></span>
+				</label>
 			</div>
 			<div>
-				<label asp-for="RememberMe"></label>
-				<input asp-for="RememberMe" type="checkbox" />
-				<span asp-validation-for="RememberMe"></span>
+				<label asp-for="RememberMe">
+					<input asp-for="RememberMe" type="checkbox" />
+					<span asp-validation-for="RememberMe"></span>
+				</label>
 			</div>
 			<div>
 				<input type="submit" value="Войти" />
